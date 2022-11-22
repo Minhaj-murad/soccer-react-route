@@ -1,0 +1,112 @@
+[ 
+    {
+    "id": "6342c6d98c90d449fa0206ee",
+    "goals": 293,
+    "name": "Minhaj Murad",
+    "team": "Bangladesh",
+    "club": "FC Barcelona",
+    "age": "25",
+    "img": "https://i.ibb.co/fDgSTrm/f1.jpg" 
+    },
+    {
+      "id": "6342c46d5b7b88a902a56a81",
+      "goals": 944,
+      "name": "Cristiano Ronaldo",
+      "team": "Portugal",
+      "club": "Manchester United",
+      "age": "37",
+      "img": "https://i.ibb.co/TmWVNJq/f2.jpg" 
+    },
+    {
+      "id": "6342c46da19583bea29c908c",
+      "goals": 859,
+      "name": "Lionel Messi",
+      "team": "Argentina",
+      "club": "Paris Saint Germain",
+      "age": "33",
+      "img": "https://i.ibb.co/wJLFYXX/f3.webp" 
+    },
+    {
+      "id": "6342c46d3f8b3716dd94b5d1",
+      "goals": 134,
+      "name": "Mesut Ozil",
+      "team": "Germany",
+      "club": "Arsenal Fc",
+      "age": "30",
+      "img": "https://i.ibb.co/W2P69w3/f4.jpg" 
+    },
+    {
+      "id": "6342c46e96e595c645e0702d",
+      "goals": 80,
+      "name": "David Beckham",
+      "team": "England",
+      "club": "Manchester United",
+      "age": "41",
+      "img": "https://i.ibb.co/VQwyKV1/f5.jpg" 
+    },
+    {
+      "id": "6342c46ee921e926ffbcf465",
+      "goals": 370,
+      "name": "Marco Reus",
+      "team": "Germany",
+      "club": "Burussia Dortmund",
+      "age": "30",
+      "img": "https://i.ibb.co/YQrNBz4/f6.webp"
+    },
+    {
+      "id": "6342c47b907a47878cdca5c5",
+      "goals": 400,
+      "name": "Neymar Jr",
+      "team": "Brasil",
+      "club": "Paris Saint Germain",
+      "age": "29",
+      "img": "https://i.ibb.co/KVSY9Bh/f7.jpg" 
+     },
+     {
+       "id": "6342c47bf5d218d1a196ca95",
+     "goals": 292,
+     "name": "Kevin de Bruinee",
+     "team": "Belgium",
+     "club": "Manchester City",
+     "age": "31",
+     "img":"https://i.ibb.co/FVWS5h0/f8.jpg" 
+     },
+     {
+     "id": "6342c47b9da4ecf14df91399",
+     "goals": 176,
+     "name": "Robert Lewandoski",
+     "team": "Poland",
+     "club": "FC Barcelona",
+     "age": "32",
+     "img": "https://i.ibb.co/ggJxdQp/f9.jpg" 
+     },
+     {
+     "id": "6342c47b9f126eea5988a44f",
+     "goals": 167,
+     "name": "Di maria",
+     "team": "Argentina",
+     "club": "Juventus",
+     "age": "33",
+     "img": "https://i.ibb.co/tBGB6BQ/f10.jpg" 
+     },
+     {
+     "id": "6342c47bd6ac05cfa7894684",
+     "goals": 128,
+     "name": "Karim Benzema",
+     "team": "France",
+     "club": "Real Madrid",
+     "age": "33",
+     "img": "https://i.ibb.co/YQw6Hm7/f11.jpg" 
+     },
+     {
+     "id": "6342c47b623d3fa299838264",
+     "goals": 203,
+     "name": "Bastian schweinsteiger",
+     "team": "Germany",
+     "club": "Bayern Munich",
+     "age": "35",
+     "img": "https://i.ibb.co/23rsdm3/f12.jpg" 
+     }
+     ]
+
+  

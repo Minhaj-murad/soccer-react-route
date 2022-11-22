@@ -1,0 +1,32 @@
+.home-container{
+    margin-left: 10px;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.player-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    
+}
+.cart{
+    
+    position: static;
+    border: 3px solid #73AD21;
+  }
+  @media screen and (max-width: 680px) {
+    .player-container{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 10px;
+        
+    }
+    .home-container{
+        margin-left: 10px;
+        display: inline;
+       
+    }
+    .full-container{
+        margin-top: 260px;
+    }
+  }
